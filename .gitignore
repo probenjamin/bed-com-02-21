@@ -1,0 +1,10 @@
+logs/
+
+# Executable files
+*.exe
+
+# Folder for configuration files
+.vscode/
+
+# Text files
+*.txt
